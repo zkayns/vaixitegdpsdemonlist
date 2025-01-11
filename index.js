@@ -23,6 +23,7 @@ var list = [
     new Level("O P P R E S S I O N", 343347520, "C1GAMER", "C1GAMER", "C1GAMER", "jKx9Os_b4Go", 60, "Extreme Demon", 1),
     new Level("Avernus Noclip Copya", 237, "Aspect", "Aspect", "Aspect", "7a2E6gAeMMc", 55, "Insane Demon", 1),
     new Level("I Made A Circle", 343347474, "Aspect", "Aspect", "Aspect", "i_mWr-94wD4", 50, "Insane Demon", 1),
+    new Level("Slate Creep", 343347521, "Vaixite", "C1GAMER", "C1GAMER", "nKHDByRDYWQ", 49, "Insane Demon", 1),
     new Level("Wither Challenge XII", 343347311, "Aspect", "Aspect", "Aspect", "Jzb34H-Ucbw", 45, "Insane Demon", 1),
     new Level("INCIDENT ERROR", 343347320, "Vaixite", "C1GAMER", "Vaixite", "F0YNP1qWHjY", 42, "Insane Demon", 1),
     new Level("Flare", 213, "Wither", "Wither", "Wither", "2ITQ0nTyUA8", 40, "Insane Demon", 1),
