@@ -108,7 +108,8 @@ var records = [
     new Record("Temperestious", "Shiny Object Syndrome", 100, "https://www.youtube.com/watch?v=f3b2oj-ncis"),
     new Record("Superduperboy29", "Shiny Object Syndrome", 100, "https://www.youtube.com/watch?v=p5B3qT2_lTk"),
     new Record("Vaixite", "Impossible level", 100, "https://www.youtube.com/watch?v=_IVHC6gLeDk"),
-    new Record("C1GAMER", "Fatal Circles", 100, "https://www.youtube.com/watch?v=El1T_KKvb3g")
+    new Record("C1GAMER", "Fatal Circles", 100, "https://www.youtube.com/watch?v=El1T_KKvb3g"),
+    new Record("Wither", "O P P R E S S I O N", 100, "https://youtu.be/ST8h_teymdc")
 ]
 var users = new Array();
 for (let i in records) {
